@@ -22,4 +22,8 @@ class Student {
         self.gender = gen
         self.birthDate = bDate
     }
+    func addStudent() {
+        
+    }
+  
 }
